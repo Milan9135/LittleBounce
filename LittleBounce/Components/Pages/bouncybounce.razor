@@ -1,0 +1,33 @@
+﻿@page "/"
+
+@rendermode InteractiveServer
+
+<PageTitle>LittleBounce</PageTitle>
+
+<h1>left: @left</h1>
+
+<h1>top: @top</h1>
+
+<button class="btn btn-primary" @onclick="IncrementLeft">Across</button>
+<button class="btn btn-primary" @onclick="IncrementTop">Down</button>
+
+<body>
+    <div class="little-guy" style="top: @(top)px; left: @(left)px;">
+        <img src="images/littleguy.png" alt="Little Guy" style="width: 100%" />
+    </div>
+</body>
+
+@code {
+    private int top = 200;
+    private int left = 700;
+
+    private void IncrementLeft()
+    {
+        left += 10;
+    }
+
+    private void IncrementTop()
+    {
+        top += 10;
+    }
+}

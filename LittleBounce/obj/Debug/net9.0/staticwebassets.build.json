@@ -1,0 +1,1145 @@
+{
+  "Version": 1,
+  "Hash": "52lTqgnndCARVM/xJevMoFve5fyGTDqUaFld/XQXMQs=",
+  "Source": "LittleBounce",
+  "BasePath": "_content/LittleBounce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LittleBounce\\wwwroot",
+      "Source": "LittleBounce",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\",
+      "BasePath": "_content/LittleBounce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\4ydbgwnudm-4kywy7iv6g.gz",
+      "SourceId": "LittleBounce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2en0hznbof",
+      "Integrity": "asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\7wjpp74xie-5kvq1sjfcj.gz",
+      "SourceId": "LittleBounce",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "LittleBounce#[.{fingerprint=5kvq1sjfcj}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\LittleBounce.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ipowclqzxf",
+      "Integrity": "6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\LittleBounce.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\l1150e6bqr-5kvq1sjfcj.gz",
+      "SourceId": "LittleBounce",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "LittleBounce#[.{fingerprint=5kvq1sjfcj}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LittleBounce.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ipowclqzxf",
+      "Integrity": "6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LittleBounce.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\LittleBounce.styles.css",
+      "SourceId": "LittleBounce",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "LittleBounce#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "5kvq1sjfcj",
+      "Integrity": "RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\LittleBounce.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LittleBounce.bundle.scp.css",
+      "SourceId": "LittleBounce",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "LittleBounce#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "5kvq1sjfcj",
+      "Integrity": "RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LittleBounce.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\app.css",
+      "SourceId": "LittleBounce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kywy7iv6g",
+      "Integrity": "9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\images\\littleguy.png",
+      "SourceId": "LittleBounce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\",
+      "BasePath": "_content/LittleBounce",
+      "RelativePath": "images/littleguy#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7krejyahmj",
+      "Integrity": "+eGJMiLDlk2Dpv2h71s55DffNfUrlwvtmBR5nNAYySg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\littleguy.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\4ydbgwnudm-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000742390497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css.gz",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\4ydbgwnudm-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\4ydbgwnudm-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000742390497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\4ydbgwnudm-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/littleguy.7krejyahmj.png",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\images\\littleguy.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+eGJMiLDlk2Dpv2h71s55DffNfUrlwvtmBR5nNAYySg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Jun 2024 15:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7krejyahmj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/littleguy.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+eGJMiLDlk2Dpv2h71s55DffNfUrlwvtmBR5nNAYySg="
+        }
+      ]
+    },
+    {
+      "Route": "images/littleguy.png",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\wwwroot\\images\\littleguy.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+eGJMiLDlk2Dpv2h71s55DffNfUrlwvtmBR5nNAYySg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Jun 2024 15:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+eGJMiLDlk2Dpv2h71s55DffNfUrlwvtmBR5nNAYySg="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.5kvq1sjfcj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\l1150e6bqr-5kvq1sjfcj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002557544757"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kvq1sjfcj"
+        },
+        {
+          "Name": "label",
+          "Value": "LittleBounce.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.5kvq1sjfcj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LittleBounce.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kvq1sjfcj"
+        },
+        {
+          "Name": "label",
+          "Value": "LittleBounce.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.5kvq1sjfcj.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\l1150e6bqr-5kvq1sjfcj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kvq1sjfcj"
+        },
+        {
+          "Name": "label",
+          "Value": "LittleBounce.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.5kvq1sjfcj.styles.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\7wjpp74xie-5kvq1sjfcj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002557544757"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kvq1sjfcj"
+        },
+        {
+          "Name": "label",
+          "Value": "LittleBounce.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.5kvq1sjfcj.styles.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\LittleBounce.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kvq1sjfcj"
+        },
+        {
+          "Name": "label",
+          "Value": "LittleBounce.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.5kvq1sjfcj.styles.css.gz",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\7wjpp74xie-5kvq1sjfcj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kvq1sjfcj"
+        },
+        {
+          "Name": "label",
+          "Value": "LittleBounce.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\l1150e6bqr-5kvq1sjfcj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002557544757"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LittleBounce.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\l1150e6bqr-5kvq1sjfcj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.styles.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\7wjpp74xie-5kvq1sjfcj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002557544757"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.styles.css",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\scopedcss\\bundle\\LittleBounce.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaMywQvArX9QMx5r0b5MXHIOot3wu2RuXhuvp0S1ObY="
+        }
+      ]
+    },
+    {
+      "Route": "LittleBounce.styles.css.gz",
+      "AssetFile": "C:\\Users\\Milan\\Documents\\games\\LittleBounce\\LittleBounce\\obj\\Debug\\net9.0\\compressed\\7wjpp74xie-5kvq1sjfcj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 19:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lpu4wTvSWLqJYwJBjQQdRuhIC1mk+zm2MjSsRDdYUc="
+        }
+      ]
+    }
+  ]
+}

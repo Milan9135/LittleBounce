@@ -1,0 +1,9 @@
+﻿body {
+    background-color: dimgrey;
+}
+
+.little-guy {
+    position: absolute;
+    width: 100px;
+    height: 142px;
+}
